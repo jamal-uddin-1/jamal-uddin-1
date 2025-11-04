@@ -42,8 +42,7 @@
 
 ##  My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jamal-uddin-1&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jamal-uddin-1&theme=dark&hide_border=false&background=000000)](https://git.io/streak-stats)
 ---
 
 ##  Most Used Languages :
