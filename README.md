@@ -48,3 +48,13 @@
 ##  Most Used Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal-uddin-1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## Languages & Tools
+![YAML](https://img.shields.io/badge/YAML-000?style=for-the-badge&logo=yaml&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
