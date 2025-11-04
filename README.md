@@ -73,10 +73,10 @@
     <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/>
   </a>
   <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Grafana_Loki_Logo.svg" alt="Loki" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>
+    <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Apache Kafka" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachekafka.svg" alt="Apache Kafka" width="40" height="40" style="background-color:white; border-radius:6px; padding:4px;"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -91,6 +91,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
