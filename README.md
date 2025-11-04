@@ -83,9 +83,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=jamal-uddin-1&theme=dark&hide_border=false&background=000000)](https://git.io/streak-stats)
 ---
 
-##  Most Used Languages :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal-uddin-1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
