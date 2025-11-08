@@ -11,7 +11,7 @@
 - 💬 Ask me about **DevOps, Computer Science, Software Engineering**
 
 - 📫 How to reach me **jamalalsyed786@gmail.com**
-#---------------------------------------------------------------------------------------------------------------
+
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
